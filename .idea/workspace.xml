@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87be774a-896a-47df-a36c-35a58be70087" name="Changes" comment="day 1 java learning">
-      <change beforePath="$PROJECT_DIR$/src/ch_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ch_1">
+  <component name="RunManager" selected="Application.ch_2">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="day_1" />
@@ -58,8 +59,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ch_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch_2" />
+      <module name="day_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ch_2" />
         <item itemvalue="Application.ch_1" />
         <item itemvalue="Application.Main" />
       </list>
@@ -81,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657988416042</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="day 1 java learning">
+      <created>1657988525699</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657988525699</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,6 +113,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="day 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 1" />
+    <MESSAGE value="day 1 java learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 1 java learning" />
   </component>
 </project>
