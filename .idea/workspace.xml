@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87be774a-896a-47df-a36c-35a58be70087" name="Changes" comment="day 1 java learning">
-      <change afterPath="$PROJECT_DIR$/src/ch_2.java" afterDir="false" />
+    <list default="true" id="87be774a-896a-47df-a36c-35a58be70087" name="Changes" comment="litrels">
+      <change afterPath="$PROJECT_DIR$/src/ch_3_input.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,13 +38,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RunManager" selected="Application.ch_2">
+}]]></component>
+  <component name="RunManager" selected="Application.ch_3_input">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="day_1" />
@@ -66,8 +67,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ch_3_input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch_3_input" />
+      <module name="day_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ch_3_input" />
         <item itemvalue="Application.ch_2" />
         <item itemvalue="Application.ch_1" />
         <item itemvalue="Application.Main" />
@@ -97,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657988525699</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="litrels">
+      <created>1657989612584</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657989612584</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +130,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="day 1" />
     <MESSAGE value="day 1 java learning" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 1 java learning" />
+    <MESSAGE value="litrels" />
+    <option name="LAST_COMMIT_MESSAGE" value="litrels" />
   </component>
 </project>
