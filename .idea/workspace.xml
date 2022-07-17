@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87be774a-896a-47df-a36c-35a58be70087" name="Changes" comment="percentage calculator">
-      <change afterPath="$PROJECT_DIR$/src/prosblem_set_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="87be774a-896a-47df-a36c-35a58be70087" name="Changes" comment="problem set 1 Q-1,2.">
+      <change afterPath="$PROJECT_DIR$/src/q_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,14 +44,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.prosblem_set_1">
-    <configuration name="ch_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch_1" />
-      <module name="day_1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.q_3">
     <configuration name="ch_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch_2" />
       <module name="day_1" />
@@ -81,13 +73,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="q_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q_3" />
+      <module name="day_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.q_3" />
         <item itemvalue="Application.prosblem_set_1" />
         <item itemvalue="Application.percentage_calculator" />
         <item itemvalue="Application.ch_3_input" />
         <item itemvalue="Application.ch_2" />
-        <item itemvalue="Application.ch_1" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657991518548</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="problem set 1 Q-1,2.">
+      <created>1658030014015</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1658030014015</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,6 +168,7 @@
     <MESSAGE value="litrels" />
     <MESSAGE value="input taking" />
     <MESSAGE value="percentage calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="percentage calculator" />
+    <MESSAGE value="problem set 1 Q-1,2." />
+    <option name="LAST_COMMIT_MESSAGE" value="problem set 1 Q-1,2." />
   </component>
 </project>
