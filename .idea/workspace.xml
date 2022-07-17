@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87be774a-896a-47df-a36c-35a58be70087" name="Changes" comment="problem set 1 Q-1,2.">
-      <change afterPath="$PROJECT_DIR$/src/q_3.java" afterDir="false" />
+    <list default="true" id="87be774a-896a-47df-a36c-35a58be70087" name="Changes" comment="Q-3">
+      <change afterPath="$PROJECT_DIR$/src/Q_4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +44,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.q_3">
-    <configuration name="ch_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch_2" />
+  <component name="RunManager" selected="Application.Q_4">
+    <configuration name="Q_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q_4" />
       <module name="day_1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q_4" />
         <item itemvalue="Application.q_3" />
         <item itemvalue="Application.prosblem_set_1" />
         <item itemvalue="Application.percentage_calculator" />
         <item itemvalue="Application.ch_3_input" />
-        <item itemvalue="Application.ch_2" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658030014015</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Q-3">
+      <created>1658030347561</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1658030347561</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,6 +176,7 @@
     <MESSAGE value="input taking" />
     <MESSAGE value="percentage calculator" />
     <MESSAGE value="problem set 1 Q-1,2." />
-    <option name="LAST_COMMIT_MESSAGE" value="problem set 1 Q-1,2." />
+    <MESSAGE value="Q-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q-3" />
   </component>
 </project>
