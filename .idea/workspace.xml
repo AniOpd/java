@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87be774a-896a-47df-a36c-35a58be70087" name="Changes" comment="Q-4">
-      <change afterPath="$PROJECT_DIR$/src/q_5.java" afterDir="false" />
+    <list default="true" id="87be774a-896a-47df-a36c-35a58be70087" name="Changes" comment="Q-5">
+      <change afterPath="$PROJECT_DIR$/src/ch_4_opreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +33,9 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2C1xyzKOR404jP4KY1R3ocVGaP8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,7 +47,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.q_5">
+  <component name="RunManager" selected="Application.ch_4_opreator">
     <configuration name="Q_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q_4" />
       <module name="day_1" />
@@ -52,8 +55,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="percentage_calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="percentage_calculator" />
+    <configuration name="ch_4_opreator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch_4_opreator" />
       <module name="day_1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ch_4_opreator" />
         <item itemvalue="Application.q_5" />
         <item itemvalue="Application.Q_4" />
         <item itemvalue="Application.q_3" />
         <item itemvalue="Application.prosblem_set_1" />
-        <item itemvalue="Application.percentage_calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658030706833</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Q-5">
+      <created>1658031006514</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1658031006514</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,6 +195,7 @@
     <MESSAGE value="problem set 1 Q-1,2." />
     <MESSAGE value="Q-3" />
     <MESSAGE value="Q-4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q-4" />
+    <MESSAGE value="Q-5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q-5" />
   </component>
 </project>
