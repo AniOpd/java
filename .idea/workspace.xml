@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87be774a-896a-47df-a36c-35a58be70087" name="Changes" comment="input taking">
-      <change afterPath="$PROJECT_DIR$/src/percentage_calculator.java" afterDir="false" />
+    <list default="true" id="87be774a-896a-47df-a36c-35a58be70087" name="Changes" comment="percentage calculator">
+      <change afterPath="$PROJECT_DIR$/src/prosblem_set_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,21 +38,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.percentage_calculator">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="day_1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Application.prosblem_set_1">
     <configuration name="ch_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch_1" />
       <module name="day_1" />
@@ -80,13 +74,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="prosblem_set_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prosblem_set_1" />
+      <module name="day_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.prosblem_set_1" />
         <item itemvalue="Application.percentage_calculator" />
         <item itemvalue="Application.ch_3_input" />
         <item itemvalue="Application.ch_2" />
         <item itemvalue="Application.ch_1" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657990889616</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="percentage calculator">
+      <created>1657991518548</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657991518548</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,6 +161,7 @@
     <MESSAGE value="day 1 java learning" />
     <MESSAGE value="litrels" />
     <MESSAGE value="input taking" />
-    <option name="LAST_COMMIT_MESSAGE" value="input taking" />
+    <MESSAGE value="percentage calculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="percentage calculator" />
   </component>
 </project>
