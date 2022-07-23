@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87be774a-896a-47df-a36c-35a58be70087" name="Changes" comment="Q-5">
-      <change afterPath="$PROJECT_DIR$/src/ch_4_opreator.java" afterDir="false" />
+    <list default="true" id="87be774a-896a-47df-a36c-35a58be70087" name="Changes" comment="operator">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -172,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658031006514</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="operator">
+      <created>1658067975402</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1658067975402</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,6 +202,8 @@
     <MESSAGE value="Q-3" />
     <MESSAGE value="Q-4" />
     <MESSAGE value="Q-5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q-5" />
+    <MESSAGE value="opretors" />
+    <MESSAGE value="operator" />
+    <option name="LAST_COMMIT_MESSAGE" value="operator" />
   </component>
 </project>
