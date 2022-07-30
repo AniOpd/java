@@ -90,7 +90,7 @@ public class pattern_question {
                 }
             }
         }
-
+        // same problem different approach
         for (int i = 1; i <= n; i++) {
             System.out.println();
             for (int j = 0; j < i; j++) {
